@@ -1,0 +1,51 @@
+F:\BITM Batch 53\Practice\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+F:\BITM Batch 53\Practice\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+F:\BITM Batch 53\Practice\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+F:\BITM Batch 53\Practice\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.frmCatagorySetup.resources
+F:\BITM Batch 53\Practice\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.Properties.Resources.resources
+F:\BITM Batch 53\Practice\Stock Management System\Stock Management System\obj\Debug\Stock Management System.csproj.GenerateResource.Cache
+F:\BITM Batch 53\Practice\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+F:\BITM Batch 53\Practice\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+F:\BITM Batch 53\Practice\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.frmCompanySetup.resources
+F:\BITM Batch 53\Practice\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.frmLoginForm.resources
+F:\BITM Batch 53\Practice\Stock Management System\Stock Management System\obj\Debug\Stock Management System.csprojResolveAssemblyReference.cache
+F:\BITM Batch 53\Practice\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.frmUpdateCatagorySetup.resources
+F:\BITM Batch 53\Practice\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.frmStockIn.resources
+F:\BITM Batch 53\Practice\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.frmSearch_ViewItmesSummary.resources
+F:\BITM Batch 53\Practice\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.frmStockOut.resources
+F:\BITM Batch 53\Practice\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.frmViewSales_BetweenTwoDates.resources
+F:\BITM Batch 53\Practice\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.frmItemSetup.resources
+J:\Final Project Bitm\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+J:\Final Project Bitm\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+J:\Final Project Bitm\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+J:\Final Project Bitm\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+J:\Final Project Bitm\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+J:\Final Project Bitm\Stock Management System\Stock Management System\obj\Debug\Stock Management System.csprojResolveAssemblyReference.cache
+J:\Final Project Bitm\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.frmItemSetup.resources
+J:\Final Project Bitm\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.frmSearch_ViewItmesSummary.resources
+J:\Final Project Bitm\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.frmStockOut.resources
+J:\Final Project Bitm\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.frmViewSales_BetweenTwoDates.resources
+J:\Final Project Bitm\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.frmStockIn.resources
+J:\Final Project Bitm\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.frmLoginForm.resources
+J:\Final Project Bitm\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.frmUpdateCatagorySetup.resources
+J:\Final Project Bitm\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.frmCompanySetup.resources
+J:\Final Project Bitm\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.frmCatagorySetup.resources
+J:\Final Project Bitm\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.Properties.Resources.resources
+J:\Final Project Bitm\Stock Management System\Stock Management System\obj\Debug\Stock Management System.csproj.GenerateResource.Cache
+E:\Final Project Bitm\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+E:\Final Project Bitm\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+E:\Final Project Bitm\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+E:\Final Project Bitm\Stock Management System\Stock Management System\obj\Debug\Stock Management System.csprojResolveAssemblyReference.cache
+E:\Final Project Bitm\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.frmItemSetup.resources
+E:\Final Project Bitm\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.frmSearch_ViewItmesSummary.resources
+E:\Final Project Bitm\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.frmStockOut.resources
+E:\Final Project Bitm\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.frmViewSales_BetweenTwoDates.resources
+E:\Final Project Bitm\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.frmStockIn.resources
+E:\Final Project Bitm\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.frmLoginForm.resources
+E:\Final Project Bitm\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.frmUpdateCatagorySetup.resources
+E:\Final Project Bitm\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.frmCompanySetup.resources
+E:\Final Project Bitm\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.frmCatagorySetup.resources
+E:\Final Project Bitm\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.Properties.Resources.resources
+E:\Final Project Bitm\Stock Management System\Stock Management System\obj\Debug\Stock Management System.csproj.GenerateResource.Cache
+E:\Final Project Bitm\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+E:\Final Project Bitm\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
